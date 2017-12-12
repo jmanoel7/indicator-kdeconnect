@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/kdeconnect-send.dir/src/kdeconnectsend/KDEConnectSend.c.o CMakeFiles/kdeconnect-send.dir/src/Device.c.o  -o kdeconnect-send -rdynamic -lappindicator3 -ldbusmenu-glib -lgtk-3 -lgdk-3 -lpangocairo-1.0 -lpango-1.0 -latk-1.0 -lcairo-gobject -lcairo -lgdk_pixbuf-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0 
